@@ -19,7 +19,7 @@ This course includes basics of python programming language.
 
 - What are strings?
 - Special characters in python
-- String related functions: concat, lower, upper, isupper, len, replace
+- String related functions: concat, lower, upper, isupper, len, replace, index
 - Get specific character from a string
 
 #### Chapter 4 - Numbers
