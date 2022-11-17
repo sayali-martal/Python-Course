@@ -30,3 +30,46 @@ This course includes basics of python programming language.
 - Concat a number with string
 - Number related functions: abs, pow, max, min, round
 - Import and use Math module: floor, ceil, sqrt
+
+#### Chapter 5 - User input
+
+- Get input from user
+
+#### Chapter 6 - Calculator
+
+- Take inputs
+- Type casting
+
+#### Chapter 7 - Input string
+
+- Take input and display in text format
+
+#### Chapter 8 - Lists
+
+- Keywords
+- Different data type support
+- Indexing
+- Negative index
+- Slicing
+- Assign value
+
+#### Chapter 9 - List functions
+
+- Extend
+- Append
+- Insert
+- Remove
+- Clear
+- Pop
+- Index
+- Count
+- Sort
+- Reverse
+- Copy
+
+#### Chapter 10 - Tuple
+
+- Immutable
+- Get item
+- Assign Item
+- Use cases
