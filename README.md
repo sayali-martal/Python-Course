@@ -52,6 +52,7 @@ This course includes basics of python programming language.
 - Negative index
 - Slicing
 - Assign value
+- Update string
 
 #### Chapter 9 - List functions
 
