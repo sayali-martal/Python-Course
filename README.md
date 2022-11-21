@@ -74,3 +74,35 @@ This course includes basics of python programming language.
 - Get item
 - Assign Item
 - Use cases
+
+#### Chapter 11 - Functions
+
+- Collection of code which performs specific task
+- Keyword use is def
+- Can accept no parameter, single parameters or multiple parameters
+- Initialize variable at function declaration
+
+#### Chapter 12 - Return
+
+- Gives information back where the function is called
+- Code does not get executed after a return statement
+
+#### Chapter 13 - If, else
+
+- Uses boolean values for execution
+- elif
+- or / and / not
+
+#### Chapter 14 - If based on Comparisons
+
+- Less than: <
+- Greater than: >
+- Less than equal to: <=
+- Greater than equal to: >=
+- Equal to: ==
+- Not equal to: !=
+
+#### Chapter 15 - Calculator based on user inputs
+
+- Accept two numbers and an operator
+- Perform addition, subtraction, multiplication, division using if else
