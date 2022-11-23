@@ -106,3 +106,31 @@ This course includes basics of python programming language.
 
 - Accept two numbers and an operator
 - Perform addition, subtraction, multiplication, division using if else
+
+#### Chapter 16 - Comments
+
+- Single line comment
+- Multiline line comment
+
+#### Chapter 17 - Set
+
+- Unordered
+- No duplicates
+- Functions: add, remove, pop, clear
+
+#### Chapter 18 - Dictionary
+
+- Key, value pairs
+- Needs unique key
+- Get value of specific key
+- Get default value if the key doesn't exist
+- Use number as a key
+
+#### Chapter 19 - While loop
+
+- Executes same block of code multiple times
+- Initialize, condition, Update
+
+#### Chapter 20 - Guessing game
+
+- Match if the word user has entered with secret word in specific number of tries
