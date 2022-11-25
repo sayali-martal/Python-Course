@@ -134,3 +134,17 @@ This course includes basics of python programming language.
 #### Chapter 20 - Guessing game
 
 - Match if the word user has entered with secret word in specific number of tries
+
+#### Chapter 21 - For loop
+
+- Loops through collection of items
+- Loop through array, string, range
+- Use if and else inside for loop
+
+#### Chapter 22 - Exponent function using for loop
+
+- Develop in built pow function
+
+#### Chapter 23 - 2D lists / nested loops
+
+- Iterate over nested array using nested loops
