@@ -148,3 +148,19 @@ This course includes basics of python programming language.
 #### Chapter 23 - 2D lists / nested loops
 
 - Iterate over nested array using nested loops
+
+#### Chapter 24 - Translator / replace function
+
+- Replace the vowels from a string
+
+#### Chapter 25 - Try, Except
+
+- Catch errors in expect block
+- Catch particular error and print it
+
+#### Chapter 26 - Files
+
+- Open file in read / append / write / read-write mode
+- Read file line by line : read, readable, readline, readlines
+- Append file : Add entries at the end of file
+- Write file : Replace contents of file if file exist or make a new file
