@@ -164,3 +164,16 @@ This course includes basics of python programming language.
 - Read file line by line : read, readable, readline, readlines
 - Append file : Add entries at the end of file
 - Write file : Replace contents of file if file exist or make a new file
+
+#### Chapter 27 - Modules and pip
+
+- Write module
+- Python modules
+- Install and uninstall module pip
+
+#### Chapter 28 - Classes and objects
+
+- Create class
+- **init** function
+- self keyword
+- Object of an class
