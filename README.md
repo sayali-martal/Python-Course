@@ -174,6 +174,16 @@ This course includes basics of python programming language.
 #### Chapter 28 - Classes and objects
 
 - Create class
-- **init** function
+- init function
 - self keyword
 - Object of an class
+- Call variables and functions from the class
+
+#### Chapter 29 - MCQ puzzle
+
+- Write a code to ask user questions, and keep the score of correct answers using class.
+
+#### Chapter 30 - Inheritance and overriding
+
+- Class inheritance
+- Function overriding
