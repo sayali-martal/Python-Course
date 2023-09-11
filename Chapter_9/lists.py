@@ -1,7 +1,7 @@
 numbers = [10, 15, 31, 1, 2, 3, 4, 5]
 color = ["blue", "red", "black", "white"]
 #           0       1       2       3
-#          -4       -3       -2       -1
+#          -4      -3      -2      -1
 
 # Add items to the list
 color.extend(numbers)

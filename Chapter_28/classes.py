@@ -20,4 +20,4 @@ print(var_student1.student_name, var_student1.major)
 print(var_student2.cgpa)
 print(var_student1.is_on_probation)
 
-print(var_student2.disstinction())
+print(var_student2.distinction())
